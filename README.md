@@ -1,7 +1,6 @@
 ### study-of-basic-gates
 
 **AIM:** 
-
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
 **Equipments Required:**
@@ -63,8 +62,10 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
  Developed by: POOJA A
  RegisterNumber: 212222240072
+```
 ```
 module exp1(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
