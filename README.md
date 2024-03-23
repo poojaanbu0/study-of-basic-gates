@@ -84,12 +84,11 @@ endmodule
 ![312524944-f9705d15-097d-41f0-938e-727ac8c817fe](https://github.com/poojaanbu0/study-of-basic-gates/assets/119390329/205e6756-53ee-4c51-8b88-86f539da678a)
 
 **RTL realization Output:** 
-![WhatsApp Image 2024-03-23 at 10 41 59_d8323d5a](https://github.com/poojaanbu0/study-of-basic-gates/assets/119390329/434c6141-64d7-4fb9-917d-dd80821e337a)
-
+![output drawing 1](https://github.com/poojaanbu0/study-of-basic-gates/assets/119390329/0f82aa8f-1476-42f8-862f-13dfd64f5027)
 
 **Output:**
 **Simulation for logic gates**
-![WhatsApp Image 2024-03-23 at 10 40 07_c96fc78a](https://github.com/poojaanbu0/study-of-basic-gates/assets/119390329/3d6564bc-8369-4be4-8012-15a09ee57737)
+![output](https://github.com/poojaanbu0/study-of-basic-gates/assets/119390329/38649a02-8106-4a24-8e86-1b84c3483c5d)
 
 
 **Result:**
