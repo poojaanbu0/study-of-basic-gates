@@ -84,9 +84,9 @@ endmodule
 ![312524944-f9705d15-097d-41f0-938e-727ac8c817fe](https://github.com/poojaanbu0/study-of-basic-gates/assets/119390329/205e6756-53ee-4c51-8b88-86f539da678a)
 
 **RTL realization Output:** 
-```
+
 ![output drawing 1](https://github.com/poojaanbu0/study-of-basic-gates/assets/119390329/0f82aa8f-1476-42f8-862f-13dfd64f5027)
-```
+
 
 **Output:**
 **Simulation for logic gates**
